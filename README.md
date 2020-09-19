@@ -2,7 +2,7 @@ gruvbox dark color theme adapted for [lightline.vim](https://github.com/itchyny/
 
 ## Preview
 
-<img src="https://i.imgur.com/XC2suyf.png" />
+<img src="https://i.imgur.com/SN59tJL.png" />
 
 ## Usage
 
