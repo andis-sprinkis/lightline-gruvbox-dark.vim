@@ -1,16 +1,13 @@
-gruvbox dark color theme adapted for [lightline.vim](https://github.com/itchyny/lightline.vim). 
-
-## Preview
+gruvbox dark colors for [lightline.vim](https://github.com/itchyny/lightline.vim). 
 
 <img src="https://i.imgur.com/SN59tJL.png" />
 
-## Install
-
-### Via vim-plug
+## Installing via vim-plug
 
 ```
-Plug 'andis-spr/lightline-gruvbox-dark.vim'
+Plug 'andis-sprinkis/lightline-gruvbox-dark.vim'
 ```
-## Usage
+
+## Setup
 
 Add `let g:lightline.colorscheme = 'gruvboxdark'` to your Vim configuration file.
