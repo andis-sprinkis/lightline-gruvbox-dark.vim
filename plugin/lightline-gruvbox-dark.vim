@@ -19,9 +19,9 @@ let s:green             = [ '#b8bb26', 142 ]
 let s:white             = [ '#ebdbb2', 223 ]
  
 
-let s:p.normal.left     = [ [ s:base03, s:cyan], [ s:base3, s:base01 ] ]
+let s:p.normal.left     = [ [ s:base03, s:cyan ], [ s:base3, s:base01 ] ]
 let s:p.insert.left     = [ [ s:base03, s:green ], [ s:base3, s:base01 ] ]
-let s:p.replace.left    = [ [ s:base03, s:yellow], [ s:base3, s:base01 ] ]
+let s:p.replace.left    = [ [ s:base03, s:yellow ], [ s:base3, s:base01 ] ]
 let s:p.visual.left     = [ [ s:base03, s:peach ], [ s:base3, s:base01 ] ]
 let s:p.inactive.left   = [ [ s:base1, s:base02 ], [ s:base0, s:base02 ] ]
 let s:p.normal.middle   = [ [ s:base1, s:base02 ] ]
