@@ -1,4 +1,4 @@
-let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
+let s:p = { 'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {} }
 
 let s:base03            = [ '#282828', 235 ]
 let s:base02            = [ '#3c3836', 237 ]
