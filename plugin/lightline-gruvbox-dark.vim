@@ -17,7 +17,7 @@ let s:blue              = [ '#458588', 66  ]
 let s:cyan              = [ '#83a598', 109 ]
 let s:green             = [ '#b8bb26', 142 ]
 let s:white             = [ '#ebdbb2', 223 ]
- 
+
 let s:p.normal.left     = [ [ s:base03, s:cyan ], [ s:base3, s:base01 ] ]
 let s:p.insert.left     = [ [ s:base03, s:green ], [ s:base3, s:base01 ] ]
 let s:p.replace.left    = [ [ s:base03, s:yellow ], [ s:base3, s:base01 ] ]
